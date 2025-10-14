@@ -1,10 +1,9 @@
 # 👋 Olá, sou o Tiago  
 
-
-💻 Desenvolvedor Frontend em construção  
-🌐 Focado em criar interfaces modernas, responsivas e acessíveis  
-🚀 Explorando tecnologias como **HTML, CSS, JavaScript e React**  
-🎨 Apaixonado por design limpo e boas experiências de usuário 
+💻 Desenvolvedor em construção, com foco em **Python**  
+🐍 Interessado em automação, APIs, análise de dados e soluções backend  
+🌐 Experiência em **HTML, CSS e JavaScript** para integração entre front e back  
+🧠 Buscando sempre escrever código limpo, eficiente e escalável 
 
 ---
 
@@ -13,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
